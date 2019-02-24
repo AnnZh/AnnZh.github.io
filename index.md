@@ -17,10 +17,10 @@
 * РАЗРАБОТКА СОВРЕМЕННЫХ ВЕБ-ПРИЛОЖЕНИЙ С ПОМОЩЬЮ ASP.NET И MICROSOFT AZURE - 2019.
 
 
-# Links
+### Links
 * [GitHub](https://github.com/AnnZh);
 * [Codewars](https://www.codewars.com/users/AnnZh).
-# Tasks
+### Tasks
 * FancyCalc [GitHub](https://github.com/AnnZh/FancyCalc);
 * PadawansTask1 [GitHub](https://github.com/AnnZh/PadawansTask1);
 * PadawansTask2 [GitHub](https://github.com/AnnZh/PadawansTask2);
