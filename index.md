@@ -35,4 +35,5 @@
 * PadawansTask11 [GitHub](https://github.com/AnnZh/PadawansTask11);
 * PadawansTask12 [GitHub](https://github.com/AnnZh/PadawansTask12);
 * PadawansTask13 [GitHub](https://github.com/AnnZh/PadawansTask13);
-* PadawansTask15 [GitHub](https://github.com/AnnZh/PadawansTask13).
+* PadawansTask15 [GitHub](https://github.com/AnnZh/PadawansTask13);
+* TicTacToe [GitHub](https://github.com/AnnZh/TicTacToe).
