@@ -1,5 +1,5 @@
-## Education
-* BSUIR, faculty of Computer System and Networks, speciality Information Technology Software (2016 - 2020).
+## About me
+* I am a student of BSUIR, faculty of Computer System and Networks, speciality Software for Information Technology (2016 - 2020). I am interested in many things, like to learn something new, and also always ready for new challenges.
 
 ## Skills
 * Knowledge of C# (.NET), JavaScript (+ HTML,CSS), php, C and Delphi;
@@ -10,30 +10,12 @@
 * Experience of bulding client-server systems;
 * B1 level of English.
 
-## About me
-* I am interested in many things, like to learn something new, and also always ready for new challenges.
-
-## EPAM training
-* РАЗРАБОТКА СОВРЕМЕННЫХ ВЕБ-ПРИЛОЖЕНИЙ С ПОМОЩЬЮ ASP.NET И MICROSOFT AZURE - 2019.
 
 
 ### Links
 * [GitHub](https://github.com/AnnZh);
 * [Codewars](https://www.codewars.com/users/AnnZh).
+
 ### Tasks
-* FancyCalc [GitHub](https://github.com/AnnZh/FancyCalc);
-* PadawansTask1 [GitHub](https://github.com/AnnZh/PadawansTask1);
-* PadawansTask2 [GitHub](https://github.com/AnnZh/PadawansTask2);
-* PadawansTask3 [GitHub](https://github.com/AnnZh/PadawansTask3);
-* PadawansTask4 [GitHub](https://github.com/AnnZh/PadawansTask4);
-* PadawansTask5 [GitHub](https://github.com/AnnZh/PadawansTask5);
-* PadawansTask6 [GitHub](https://github.com/AnnZh/PadawansTask6);
-* PadawansTask7 [GitHub](https://github.com/AnnZh/PadawansTask7);
-* PadawansTask8 [GitHub](https://github.com/AnnZh/PadawansTask8);
-* PadawansTask9 [GitHub](https://github.com/AnnZh/PadawansTask9);
-* PadawansTask10 [GitHub](https://github.com/AnnZh/PadawansTask10);
-* PadawansTask11 [GitHub](https://github.com/AnnZh/PadawansTask11);
-* PadawansTask12 [GitHub](https://github.com/AnnZh/PadawansTask12);
-* PadawansTask13 [GitHub](https://github.com/AnnZh/PadawansTask13);
-* PadawansTask15 [GitHub](https://github.com/AnnZh/PadawansTask13);
-* TicTacToe [GitHub](https://github.com/AnnZh/TicTacToe).
+* Tic-Tac-Toe [GitHub](https://github.com/AnnZh/TicTacToe);
+* Text Editor [GitHub](https://github.com/AnnZh/TextEditor).
