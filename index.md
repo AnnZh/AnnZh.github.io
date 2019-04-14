@@ -15,7 +15,3 @@
 ### Links
 * [GitHub](https://github.com/AnnZh);
 * [Codewars](https://www.codewars.com/users/AnnZh).
-
-### Tasks
-* Tic-Tac-Toe [GitHub](https://github.com/AnnZh/TicTacToe);
-* Text Editor [GitHub](https://github.com/AnnZh/TextEditor).
