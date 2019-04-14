@@ -4,10 +4,10 @@ I am a student of BSUIR, faculty of Computer Systems and Networks, speciality So
 ## My skills
 * Knowledge of C# (.NET), JavaScript (+ HTML, CSS), PHP, C and Delphi;
 * Understanding of OOP concepts, data structures and algorithms;
-* Have a basic knowledge of MySQL;
-* Experience with Linux/Windows Operating Systems;
+* Basic knowledge of MySQL;
+* Little experience with Linux/Windows Operating Systems;
 * Understanding of Web architecture and principles;
-* Experience of bulding client-server systems;
+* Little experience of bulding client-server systems;
 * B1 level of English.
 
 
