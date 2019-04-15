@@ -1,5 +1,5 @@
 ## About me
-I am a student of BSUIR, faculty of Computer Systems and Networks, speciality Software for Information Technology (2016 - 2020). I am a communicable, responsible and creative person who is interested in many things. I like to learn something new and also always ready for new challenges.
+I am a student of BSUIR, faculty of Computer Systems and Networks, speciality Software for Information Technologies (2016 - 2020). I am a communicable, responsible and creative person who is interested in many things. I like to learn something new and also always ready for new challenges.
 
 ## My skills
 * Knowledge of C# (.NET);
