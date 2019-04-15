@@ -12,5 +12,4 @@ I am a student of BSUIR, faculty of Computer Systems and Networks, speciality So
 
 
 ### Links
-* [GitHub](https://github.com/AnnZh);
-* [Codewars](https://www.codewars.com/users/AnnZh).
+* [GitHub](https://github.com/AnnZh).
