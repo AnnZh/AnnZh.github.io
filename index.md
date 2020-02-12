@@ -1,5 +1,5 @@
 ## About me
-I’m junior .NET Developer. Eager to gain experience and improve my skills and abilities in software development way. 
+I’m in my last year of BSUIR. Eager to gain experience and improve my skills and abilities in software development way. 
 Communicable, responsible fast learner with analytical thinking.
 
 ## Education
